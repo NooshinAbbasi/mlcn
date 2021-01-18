@@ -1,3 +1,4 @@
 crackers
 nuts
-chipits
+chips
+candy
